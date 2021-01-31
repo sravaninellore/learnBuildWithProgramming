@@ -1,11 +1,11 @@
 # Path and useful links to get start and exploring world of programming and artificial inteligence 
 
-## Skills
-
-### Programming - Python or R(We choosed Python)
+## Programming - Python or R(We choosed Python)
   - Here we will be learning programming with Python and will be building couple of products.
   - Below is the list of items and there will be dedicated respositories for programming fundamentals and projects 
-  - #### Programming fundamentals    
+  
+  - ### Programming fundamentals    
+  
     1. Data types
     2. Arithmetic Expressions
     3. Branching(Conditional) statements(if, if else, switch)
@@ -13,14 +13,35 @@
     5. Strings & Functions
     6. Array/List
     
-### Data Source - SQL, Mysql, MongoDB
+    
+  - ### Python programming
+    1. How to work with above fundamentals in python
+    2. Deep dive into list 
+    3. Dictonary 
+    4. Classes
+    5. others
+
+## Introduction Web (It is Optional) 
+  1. HTML, CSS
+  2. JavaScript
+  3. React
   
+## Data Source - SQL, Mysql, MongoDB
+  SQL - stands for structured languge
+    - MySQl
+    - Postgress
+    - Oracle
+    
+  NoSQl - 
+    - MongoDB
+    - Cascenddra 
+    
 
 
-### Mathmetics  - Statistics 
+## Mathmetics  - Statistics 
 
 
-### Introduction to AI and ML
+## Introduction to AI and ML
 
 
 
