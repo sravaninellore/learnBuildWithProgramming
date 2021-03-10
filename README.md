@@ -4,11 +4,37 @@
 
 ### Introduction to Programming
 
+- Programming fundamentals
+
+1. Variables
+2. Data Types
+3. Operators
+4. Branching/Conditional statements
+5. Iterative statements
+6. functions
+7. Array/List
+
 ### Programming with python
+
+- How to use programming fundamentals with python which we learned from programming fundamentals
+- Tuple
+- Set
+- Dictionary
+- Classes
+
+- Working with files
+- Interacting with command line
 
 ### P1 - Build things from the learnings
 
+- Writing system programming
+- Automating repetitive task
+
 ### Introduction to Web
+
+1. HTML, CSS
+
+2. JavaScript
 
 ### P2 - Build things from the learnings
 
