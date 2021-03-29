@@ -7,12 +7,90 @@
 - Programming fundamentals
 
 1. Variables
+
+- Variables are used to store values temporarily and life time will be program execution duration
+
+```Python
+  country = 'India'
+  indian_states = 28;
+
+```
+
 2. Data Types
+
+```Python
+  numbers
+  strings
+  boolean(True, False)
+  object
+```
+
 3. Operators
+
+- Will be listing most important and commonly used operators
+
+```Python
+Assignment Operators ( = )
+
+
+Comparison Operators ( ==, >, <, >=, <= )
+
+Arithmetic Operators ( +, -, *, /, % )
+
+Logical Operators (python - and , or), (JavaScript - &&, ||)
+
+Still more dig into internet
+
+```
+
 4. Branching/Conditional statements
+
+- if
+- while
+- switch (Python will not support it)
+
 5. Iterative statements
+
+- for
+
 6. functions
+
+- functions are self contained to perform a particular related task.
+
+  ```Python
+
+    def sayHello:
+      print('Hello World')
+      return "Hello World"
+
+    sayHello()
+  ```
+
+  ```JavaScript
+    function sayHello(){
+      console.log("Hello World")
+      return "Hello World"
+    }
+
+    sayHello();
+
+  ```
+
 7. Array/List
+
+- Array are used create and store more than one value and it will be stored in contagious memory location
+
+```Python
+  asian_countries = ['India', 'Singapore', 'Thailand', 'Bangkok', 'South Korea', 'Japan']
+
+```
+
+```JavaScript
+  We will use pre defined key words to create variables, there are 3 different keywords and it differs among them on scope of variable
+
+  var asian_countries = ['India', 'Singapore', 'Thailand', 'Bangkok', 'South Korea', 'Japan']
+
+```
 
 ### Programming with python
 
@@ -55,3 +133,7 @@
 ### Introduction to Machine Learning and Artificial Intelligence
 
 ### Next big things to work on
+
+```
+
+```
