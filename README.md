@@ -60,6 +60,18 @@ For rest, please refer dedicated python repository
 
 - switch (Python will not support it)
 
+  - Below example show that working with switch in JavaScript and its pretty same all most all programming language
+
+  ```JavaScript
+    switch(type)
+      case 'JavaScript':
+        print('Do logic for type JavaScript')
+      case 'Python':
+        print('Do logic for type Python'
+      case 'Java':
+        print('Do logic for type Java'
+  ```
+
 5. Iterative statements
 
 - for
