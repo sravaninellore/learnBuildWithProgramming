@@ -46,12 +46,26 @@ For rest, please refer dedicated python repository
 4. Branching/Conditional statements
 
 - if
+  ```python
+    if(True):
+      pass
+  ```
 - while
+
+  ```python
+  while(True){
+    // For truthy logic goes here
+  }
+  ```
+
 - switch (Python will not support it)
 
 5. Iterative statements
 
 - for
+  ```python
+    programming_languages = ['Python', 'JavaScript', 'Java']
+  ```
 
 6. functions
 
