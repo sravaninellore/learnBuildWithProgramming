@@ -118,8 +118,9 @@ For rest, please refer dedicated python repository
 
 ```
 
+- We will use pre defined key words to create variables, there are 3 different keywords and it differs among them on scope of variable
+
 ```JavaScript
-  We will use pre defined key words to create variables, there are 3 different keywords and it differs among them on scope of variable
 
   var asian_countries = ['India', 'Singapore', 'Thailand', 'Bangkok', 'South Korea', 'Japan']
 
