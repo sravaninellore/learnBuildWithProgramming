@@ -63,8 +63,15 @@ For rest, please refer dedicated python repository
 5. Iterative statements
 
 - for
+
   ```python
     programming_languages = ['Python', 'JavaScript', 'Java']
+
+    for language in programming_languages:
+      print(language) // This code will print languages one by one
+
+
+
   ```
 
 6. functions
