@@ -39,7 +39,7 @@ Arithmetic Operators ( +, -, *, /, % )
 
 Logical Operators (python - and , or), (JavaScript - &&, ||)
 
-Still more dig into internet
+For rest, please refer dedicated python repository
 
 ```
 
