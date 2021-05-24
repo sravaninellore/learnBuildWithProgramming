@@ -141,6 +141,22 @@ For rest, please refer dedicated python repository
 
 - Writing system programming
 - Automating repetitive task
+- Few problems to solve
+
+  - Working with files
+
+    - Write program to count number files of image type with extension .jpg, jpeg, png
+
+    ```Python
+      // Sample out
+      extension count
+      .jpg       6500
+      .jpeg      800
+      .png       85000
+    ```
+
+  - Analyzing your computer computer memory
+    - Write a program to analyze memory taken by media files(Video & audio) && also availability of free space in your computer
 
 ### Introduction to Web
 
@@ -151,6 +167,10 @@ For rest, please refer dedicated python repository
 ### P2 - Build things from the learnings
 
 ### Data Source (SQL, MySQL, MongoDB)
+
+- SQL Data Bases -> MySQL, Oracle, Microsoft SQL, Postgres
+
+- NoSQL Data Bases -> MongoDB, cassandra
 
 ### P3 - Build this from the learnings
 
